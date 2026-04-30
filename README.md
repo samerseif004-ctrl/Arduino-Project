@@ -32,5 +32,5 @@ The ultrasonic sensor measures the distance of an approaching object. When the o
 - Circuit wiring
 - System testing and troubleshooting
 
-## Code
-The Arduino code is located in the `/code` folder.
+## Images
+
