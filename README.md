@@ -42,8 +42,5 @@ The ultrasonic sensor measures the distance of an approaching object. When the o
 
 ## Video
 
-<video width="500" controls>
-  <source src="IMG_6292.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Download / View Video](IMG_6292.mp4)
 
